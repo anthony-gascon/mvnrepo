@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 05 04:43:24 COT 2020
+camel-spark-component-1.0.0-SNAPSHOT.jar>=
+camel-spark-component-1.0.0-SNAPSHOT.pom>=
